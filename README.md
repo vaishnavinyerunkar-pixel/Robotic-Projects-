@@ -1,5 +1,5 @@
-# 👋 Hi, I’m **Vaishnavi Yerunkar**  
-### 🤖 Robotics | Computer Vision | IoT Developer  
+# 👋 Hi, I’m **Vaishnavi N Yerunkar**  
+### 🤖 Robotics | Computer Vision | IoT Developer | Embedded System  
 
 🚀 Building intelligent robotic systems using OpenCV, ESP32, 3D Printing & Embedded Systems.
 
@@ -79,12 +79,20 @@ I love transforming ideas into intelligent, interactive machines.
 
 ## 📫 Connect With Me
 
-📧 Email: (Add your email here)  
-🔗 LinkedIn: (Add your LinkedIn link here)  
+📧 Email: vaishnavinyerunkar@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/vaishnavi-n-yerunkar-1227a528b?utm_source=share_via&utm_content=profile&utm_medium=member_android  
 💻 GitHub: https://github.com/vaishnavinyerunkar-pixel  
 
 ---
 
-## ⭐ If you like my work, consider starring the repository!
+## 🔥 Let’s Build Intelligent Systems Together!
+
+I’m open to:
+- Internships  
+- Robotics collaborations  
+- Research opportunities  
+- AI & Embedded Systems projects  
+
+Thank you for visiting my Robotics Portfolio 🚀
 
 🚀 Let’s build the future of Robotics together!
