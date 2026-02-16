@@ -22,6 +22,7 @@ I love transforming ideas into intelligent, interactive machines.
 
 ### 🔧 Embedded Systems
 ![ESP32](https://img.shields.io/badge/ESP32-Embedded-red?style=for-the-badge)
+![NodeMCU](https://img.shields.io/badge/NodeMCU-ESP8266-blue?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-Microcontroller-blue?style=for-the-badge)
 
 ### 🧠 AI & Computer Vision
