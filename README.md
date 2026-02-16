@@ -50,14 +50,6 @@ I love transforming ideas into intelligent, interactive machines.
 
 ---
 
-## 📊 GitHub Stats
-
-![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavinyerunkar-pixel&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavinyerunkar-pixel&layout=compact&theme=radical)
-
----
-
 ## 🔥 What This Portfolio Demonstrates
 
 ✔ Real-time Computer Vision → Hardware Integration  
