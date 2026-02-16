@@ -1,85 +1,32 @@
-# Robotic-Projects
-🤖 Project Title (Replace With Your Project Name)
+# 🤖 Robotics & Intelligent Systems Portfolio
 
-Short one-line description of the project.
-Example: A 3D printed robotic hand controlled using OpenCV-based gesture recognition and mobile interface.
+A curated collection of hands-on robotics, computer vision, IoT, and embedded systems projects demonstrating real-world automation, smart control, and design.
 
-📌 Overview
+🚀 Projects Included
+Project	Description	Tech
+Robotic Hand	3D-printed robotic hand controlled via computer vision & mobile interface	OpenCV, Python, Arduino, 3D Printing
+OpenCV & WiFi RC Car	Vision-based object tracking car & WiFi remote control	OpenCV, ESP32/ESP8266, Python
+Otto Robot	3D printed dancing robot with motion routines	Arduino, 3D Printing
+Gesture-Based PPT Control	Presentation control using hand gestures	OpenCV, Python
+IoT Automation Projects	Multiple IoT-enabled sensor and control systems	ESP32/ESP8266, MQTT, IoT
+📌 About This Repository
 
-This project focuses on building a brief explanation of what the system does.
-Explain the goal, what problem it solves, and what makes it unique.
+This portfolio showcases my hands-on expertise in robotics, automation, and intelligent systems building. Each project combines hardware, software, and real-time control to solve real-world problems and demonstrate automation capabilities.
 
-Example:
+Whether it’s computer vision, embedded microcontrollers, or IoT systems, every build is designed to be scalable, educational, and project-ready.
 
-Real-time gesture-controlled robotic system
+🛠 Technologies & Tools
 
-Integration of computer vision with hardware
+Languages: Python, C/C++, Arduino
 
-Wireless/mobile-based control
+Computer Vision: OpenCV
 
-🎯 Objectives
+Embedded Systems: ESP32 / ESP8266 / Arduino
 
-Design and develop the hardware system
+Hardware: Servo & DC Motors, Sensors
 
-Implement real-time control logic
+Design: 3D Printing, CAD Models
 
-Integrate OpenCV / IoT / Embedded system
+Communication: WiFi, Serial, MQTT / IoT
 
-Achieve smooth and responsive automation
-
-🛠 Components Used
-🔹 Hardware
-
-Arduino / ESP32 / ESP8266
-
-Servo Motors / DC Motors
-
-Sensors (if any)
-
-Power Supply
-
-3D Printed Parts
-
-🔹 Software
-
-Python
-
-OpenCV
-
-Arduino IDE
-
-Embedded C/C++
-
-Mobile App (if applicable)
-
-🧠 System Architecture
-
-Explain how your system works step-by-step:
-
-Camera captures input
-
-OpenCV processes image
-
-Gesture/object detected
-
-Command sent to microcontroller
-
-Actuators perform action
-
-You can also insert a system flow diagram here:
-
-Camera → OpenCV → Serial/WiFi → Microcontroller → Motors/Servos
-
-⚙️ Working Principle
-
-Describe the logic:
-
-Image processing technique used
-
-Detection algorithm (contours, Haar cascade, Mediapipe, etc.)
-
-Communication protocol (Serial/WiFi/Bluetooth)
-
-Control logic
-
-Explain clearly but technically.
+Interfaces: Mobile UI / Gesture Control
